@@ -4,6 +4,8 @@ Python Visualization Library Intro and Example
 
 Author:  Chun Ting Chang
 
+---
+
 **Agenda**
 
 - Matplotlib
